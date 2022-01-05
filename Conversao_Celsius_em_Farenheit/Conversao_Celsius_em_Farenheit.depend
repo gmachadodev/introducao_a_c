@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540423214 source:c:\users\gabriel\desktop\codigos_em_c\conversao_celsius_em_farenheit\main.c
+	<stdio.h>
+	<stdlib.h>
+
